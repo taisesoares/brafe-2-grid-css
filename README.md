@@ -6,8 +6,12 @@ Segunda versão do segundo layout Brafe, utilizando os conceitos de grid css par
 
 * [Pure CSS](https://github.com/taisesoares/brafe-2-pure-css)
 
+<hr>
 
-#### Brafe 1
+### Brafe 1
+
+Modelo de layout utilizando os conceitos de puro css, grid css, flexbox e boostrap.
+
 * [Pure CSS](https://github.com/taisesoares/brafe-pure-css)
 * [Grid CSS](https://github.com/taisesoares/brafe-grid-css)
 * [Flexbox](https://github.com/taisesoares/brafe-flexbox)
